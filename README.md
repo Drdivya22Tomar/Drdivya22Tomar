@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drdivya22Tomar
 - 👀 I’m interested in data science using Python
-- 🌱 I’m currently learning Stats
+- 🌱 I’m currently learning Stata
 - 💞️ I’m looking to collaborate on medical data 
 - 📫 How to reach me - divyatomer009@gmail.com
 
